@@ -22,13 +22,13 @@ Java 的开发需要先安装 JDK，然后再使用一个开发工具即可
     
     或者，用社区版，对于初学者够用了；
     
-    或者，某宝搜一下花几块钱买个破解版；
+    或者，某宝搜一下花几块钱买个；
     
     或者，通过下面的方法自己搞：
     
     链接：https://pan.baidu.com/s/1fRaT0S84NYct433ketZSkg 
     提取码：7x01 
-    破解方法，亲测可用：https://cloud.tencent.com/developer/article/1651800
+    亲测可用：https://cloud.tencent.com/developer/article/1651800
     
 
 ### 三、eclipse-jee-2020-12-R 版本
