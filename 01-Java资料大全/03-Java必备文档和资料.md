@@ -1,5 +1,10 @@
 ## Java必备文档
 
+- Java全栈学习：https://www.jeeweixin.com
+
+- 更多资料搜公众号：祁大聪
+
+
 ### 一、Java的API文档
 
 JavaAPI.chm （JDK6）
