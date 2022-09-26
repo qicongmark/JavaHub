@@ -16,11 +16,11 @@
 
 
 
-> 《 Java On The Road》作者祁大聪，坦诚极客、知行合一
+> 作者祁大聪，坦诚极客、知行合一
 >
-> 愿景：让普通人也能轻松的学会编程！
+> 文档下载到电脑，用Typora通过大纲阅读更方便
 >
-> PDF：https://github.com/qicongmark/javahub/JavaOnTheRoad.pdf
+> PDF版：https://github.com/qicongmark/javahub/blob/master/01-JavaOnTheRoad.pdf
 >
 > 文字版：https://jeeweixin.com 中的Java专栏
 
