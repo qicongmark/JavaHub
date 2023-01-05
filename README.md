@@ -1,16 +1,8 @@
 
-## JavaHub
+## JavaHub——Java学习、笔试面试、跳槽涨薪、资料PDF等
 
-- 分享Java编程资料
+- 10个G的Java笔试面试题：https://mp.weixin.qq.com/s/sTtVB5AiTqoptZnv8w9A_Q
 
-- JavaEE编程资料
-
-- JavaWeb全栈编程资料 
-
-- Spring编程资料
-
-
-### Java编程学习网站
 
 - 从零基础到项目实战：https://jeeweixin.com/wiki/1413240718360608
 
