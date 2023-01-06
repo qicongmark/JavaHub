@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        Hello Thymeleaf <br/>
+        <div th:text="${user.name}"></div>
+        <div th:text="${user.age}"></div>
+        <div th:text="${user.address}"></div>
+        <div th:text="${#dates.format(user.birthday,'yyyy-MM-dd HH:mm:ss')}"></div>
+    </body>
+</html>

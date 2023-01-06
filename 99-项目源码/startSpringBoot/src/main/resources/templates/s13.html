@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        ${user.name},${user.age!},${(person.name)!'default'}<br/>
+        ${school}
+
+        <br/>
+        <#if user.address??>
+            ${user.address}
+        <#else>
+            用户地址不存在
+        </#if>
+
+        <br/>
+        <#list userList as user>
+        ${user.name} <br/>
+        </#list>
+
+        <br/>
+            UserMap
+        <br/>
+        <#list userMap?keys as key>
+            ${key}: ${userMap[key].name} <br/>
+        </#list>
+    </body>
+</html>

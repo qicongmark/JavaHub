@@ -1,0 +1,53 @@
+# 整合框架的一些配置
+
+server:
+  port: 8080
+
+spring:
+  # FreeMarker
+  freemarker:
+    cache: false
+    checkTemplateLocation: true
+    contentType: text/html
+    suffix: .html
+    templateEncoding: UTF-8
+    templateLoaderPath: classpath:templates
+
+  # 国际化
+  messages:
+    basename: i18n/messages
+    encoding: UTF-8
+
+  # MySQL数据库连接数据源
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/learnmysql?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: root123
+
+  # Redis
+  redis:
+    host: 127.0.0.1
+    port: 6379
+
+# MyBatis
+mybatis:
+  type-aliases-package: com.qicong
+  config-locations: classpath:mybatis/mybatis-config.xml
+  mapper-locations: classpath:mybatis/mapper/*.xml
+
+
+# thymeleaf   ctrl + /
+#spring:
+#  thymeleaf:
+#    cache: false
+#    mode: HTML5
+#    content-type: text/html
+#    suffix: .html
+#    encoding: UTF-8
+#    prefix: classpath:/templates/
+
+
+com.qicong:
+  name: 祁大聪讲编程
+

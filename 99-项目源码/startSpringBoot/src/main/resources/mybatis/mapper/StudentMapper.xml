@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://10.20.91.130/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.qicong.sboot.s17.StudentDao">
+
+    <select id="getCurDate" resultType="java.lang.String">
+        SELECT CURDATE() FROM DUAL
+    </select>
+
+    <select id="getStudents" resultType="com.qicong.sboot.s17.Student">
+        SELECT * FROM student
+    </select>
+
+</mapper>
+
