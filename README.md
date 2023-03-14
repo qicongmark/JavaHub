@@ -18,7 +18,7 @@
 
 
 
-关注我的公众号：祁大聪 — 一个会赚钱的程序员
+关注我的公众号：祁大聪 ， 一个会赚钱的程序员
 
 <img src=https://cdn.jsdelivr.net/gh/qidacong/blob-img@master/20220520/qidacong.4z0s3ud9vm80.webp width=200/>
 
