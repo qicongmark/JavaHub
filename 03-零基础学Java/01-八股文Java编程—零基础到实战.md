@@ -1,4 +1,4 @@
-## 《 Java On The Road》
+##  八股文Java编程—零基础到实战
 
 趁着年轻生猛
 
@@ -20,7 +20,7 @@
 >
 > 文档下载到电脑，用Typora通过大纲阅读更方便
 >
-> PDF版：https://github.com/qicongmark/javahub/blob/master/01-JavaOnTheRoad.pdf
+> GitHub：https://github.com/qicongmark/javahub/
 >
 > 文字版：https://jeeweixin.com 中的Java专栏
 
