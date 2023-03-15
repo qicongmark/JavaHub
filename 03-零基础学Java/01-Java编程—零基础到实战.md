@@ -1,4 +1,4 @@
-##  八股文Java编程—零基础到实战
+##  Java编程—零基础到实战
 
 趁着年轻生猛
 
@@ -16,13 +16,13 @@
 
 
 
-> 作者祁大聪，坦诚极客、知行合一
+> 公众号：祁大聪，坦诚极客、知行合一
 >
 > 文档下载到电脑，用Typora通过大纲阅读更方便
 >
 > GitHub：https://github.com/qicongmark/javahub/
 >
-> 文字版：https://jeeweixin.com 中的Java专栏
+> 网站版：https://jeeweixin.com/wiki/1413240718360608 
 
 
 
