@@ -1,8 +1,0 @@
-
-# 配置自己的一些属性
-
-com.wesite:
-  name: HelloSpringBoot
-  url: springboot
-  date: 2021
-
