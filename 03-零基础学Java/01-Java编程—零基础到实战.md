@@ -1,14 +1,10 @@
-#  Java编程—零基础到实战
+#  安装JDK并配置环境变量
 
 
 
 > 作者：祁大聪
 >
 > 实战课程：多动手写代码、多记笔记、多做项目，进步会很快
-
-
-
-## 第一章，Java编程准备和体验
 
 
 
@@ -129,24 +125,5 @@ public class HelloWorld {
 }
 ```
 <img src="https://jeeweixin.com/static/upload/1504744382136352.png" alt="img" style="width:600px;float:left" />
-
-
-
-
-
-
-
-## 第二章、Java程序的基础概念
-
-
-
-
-
-
-
-
-
-
-
 
 
